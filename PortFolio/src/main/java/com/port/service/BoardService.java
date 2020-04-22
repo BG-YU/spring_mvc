@@ -5,5 +5,5 @@ import java.util.List;
 import com.port.domain.BoardVO;
 
 public interface BoardService {
-	public List<BoardVO> listAll() throws Exception;
+    public List<BoardVO> listAll() throws Exception;
 }
